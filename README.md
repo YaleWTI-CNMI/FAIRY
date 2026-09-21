@@ -15,9 +15,24 @@ Students, researchers, and anyone interested in learning AI are welcome. No sing
 
 ## Workshops
 ### Past Workshop Series
-#### 2025 Fall
+#### 2025 Fall 
+Organizers
+* Sasha Cui, PhD in Statistics & Data Science, Yale University
+* Quan Le, PhD in Statistics & Data Science, Yale University
+* Alexander Mader, Undergrad in Physics, Yale University
+* Ping Luo, Wu Tsai Institute, Yale University
+
 #### 2026 Spring - Build an LLM from Scratch
+Organizers
+* Dongyu Gong, PhD in Neuroscience, Yale University
+* Xiaowei Ou, PhD in Physics, Yale University
+* Ping Luo, Wu Tsai Institute, Yale University
+
 ### Current Workshop Series
 #### 2026 Fall - Build AI Agents from Scratch
-
+Organizers
+* Dongyu Gong, PhD in Neuroscience, Yale University
+* Xiaowei Ou, PhD in Physics, Yale University
+* Kashi Tuteja, Undergrad in Mathematics, Yale Univeristy
+* Ping Luo, Wu Tsai Institute, Yale University
 
