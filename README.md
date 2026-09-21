@@ -7,9 +7,7 @@ together students and researchers to develop a comprehensive understanding of ar
 
 ## Mission
 
-Our mission is to help students and researchers learn AI comprehensively in a collaborative environment that emphasizes practical, hands-on experience.
-
-We aim to make AI learning accessible, engaging, and grounded in practice by bringing together people with different backgrounds and levels of experience to learn from one another.
+Our mission is to help students and researchers develop practical understanding of AI through hands-on learning and collaboration across backgrounds and experience levels.
 
 ## Who Can Join
 
