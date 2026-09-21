@@ -2,7 +2,7 @@
 
 ## About
 
-The Full-stack AI Researcher @ Yale (FAIRY) workshop series began in Fall 2025 with the goal of bringing together students and researchers
+The Full-stack AI Researcher @ Yale (FAIRY) workshop series hosted by the Wu Tsai Institute began in Fall 2025 with the goal of bringing together students and researchers
 to develop a comprehensive understanding of artificial intelligence through hands-on learning, discussion, and shared exploration in a 
 collaborative community.
 
