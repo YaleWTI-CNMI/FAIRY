@@ -9,7 +9,7 @@ together students and researchers to develop a comprehensive understanding of ar
 
 Our mission is to help students and researchers develop practical understanding of AI through hands-on learning and collaboration across backgrounds and experience levels.
 
-## Who Can Join
+## Who Can Attend
 
 Students, researchers, and anyone interested in learning AI are welcome. No single level of prior experience is required—curiosity, participation, and a willingness to learn collaboratively are what matter most.
 
