@@ -13,28 +13,6 @@ Our mission is to help students and researchers develop practical understanding 
 Students, researchers, and anyone interested in learning AI are welcome. No single level of prior experience is required—curiosity, participation, and a willingness to learn collaboratively are what matter most.
 
 ## Workshops
-### Past Workshop Series
-#### 2025 Fall 
-Organizers
-* Sasha Cui, PhD in Statistics & Data Science, Yale University
-* Quan Le, PhD in Statistics & Data Science, Yale University
-* Alexander Mader, Undergrad in Physics, Yale University
-* Ping Luo, Wu Tsai Institute, Yale University
-
-Course website: https://sashacui.com/full-stack.html
-
-#### 2026 Spring - Build an LLM from Scratch
-Organizers
-* Dongyu Gong, PhD in Neuroscience, Yale University
-* Xiaowei Ou, PhD in Physics, Yale University
-* Ping Luo, Wu Tsai Institute, Yale University
-  
-Book: Build a Large Language Model from Scratch ([Amazon](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167?crid=228R4JI0P0QFR&dib=eyJ2IjoiMSJ9.XvZyIer9iV133BWXqNiVt_OOJXZheO54dvZtQly8MC25PNYZrN3OWsGLjbg3I0G9hI3LkjwhsORxvHIob3nvCZFgdSSQEFe07VkehijGxT03n4Amdw7lnXxnsOUuWXeglfHnewCcV3DjL9zWHELfh5DG1ZErzFym3S6ZxSuFzNvoPkaq0uDlD_CKwqHdC0KM_RdvIqF0_2RudgvzRli0V155KkusHRck3pG7ybp5VyqKDC_GgL_MEywLwLhFgX6kOCgV6Rq90eTgSHFd6ac8krpIYjsHWe6H3IXbfKGvMXc.473O1-iUZC0z2hdx8L5Z5ZTNxtNV9gNPw_mE7QZ5Y90&dib_tag=se&keywords=raschka&qid=1730250834&sprefix=raschk,aps,162&sr=8-1&linkCode=sl1&tag=rasbt03-20&linkId=84ee23afbd12067e4098443718842dac&language=en_US&ref_=as_li_ss_tl))
-
-Repository: https://github.com/rasbt/LLMs-from-scratch
-
-Slides
-
 ### Current Workshop Series
 #### 2026 Fall - Build AI Agents from Scratch
 Organizers
@@ -42,4 +20,38 @@ Organizers
 * Xiaowei Ou, PhD in Physics, Yale University
 * Kashi Tuteja, Undergrad in Mathematics, Yale Univeristy
 * Ping Luo, Wu Tsai Institute, Yale University
+
+Faculty Adviser: [John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
+
+Speakers
+
+### Past Workshop Series
+#### 2026 Spring - Build an LLM from Scratch
+Organizers
+  Dongyu Gong, PhD in Neuroscience, Yale University
+  Xiaowei Ou, PhD in Physics, Yale University
+  Ping Luo, Wu Tsai Institute, Yale University
+
+Faculty Adviser: [John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
+
+Speakers: 
+
+Book: Build a Large Language Model from Scratch ([Amazon](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167?crid=228R4JI0P0QFR&dib=eyJ2IjoiMSJ9.XvZyIer9iV133BWXqNiVt_OOJXZheO54dvZtQly8MC25PNYZrN3OWsGLjbg3I0G9hI3LkjwhsORxvHIob3nvCZFgdSSQEFe07VkehijGxT03n4Amdw7lnXxnsOUuWXeglfHnewCcV3DjL9zWHELfh5DG1ZErzFym3S6ZxSuFzNvoPkaq0uDlD_CKwqHdC0KM_RdvIqF0_2RudgvzRli0V155KkusHRck3pG7ybp5VyqKDC_GgL_MEywLwLhFgX6kOCgV6Rq90eTgSHFd6ac8krpIYjsHWe6H3IXbfKGvMXc.473O1-iUZC0z2hdx8L5Z5ZTNxtNV9gNPw_mE7QZ5Y90&dib_tag=se&keywords=raschka&qid=1730250834&sprefix=raschk,aps,162&sr=8-1&linkCode=sl1&tag=rasbt03-20&linkId=84ee23afbd12067e4098443718842dac&language=en_US&ref_=as_li_ss_tl))
+
+Repository: https://github.com/rasbt/LLMs-from-scratch
+
+
+#### 2025 Fall 
+Organizers
+*  Sasha Cui, PhD in Statistics & Data Science, Yale University
+*  Quan Le, PhD in Statistics & Data Science, Yale University
+*  Alexander Mader, Undergrad in Physics, Yale University
+*  Ping Luo, Wu Tsai Institute, Yale University
+
+Faculty Adviser: [John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
+
+Course website: https://sashacui.com/full-stack.html
+
+
+
 
