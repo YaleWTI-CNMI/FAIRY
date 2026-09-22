@@ -28,9 +28,9 @@ Speakers
 ### Past Workshop Series
 #### 2026 Spring - Build an LLM from Scratch
 Organizers
-  Dongyu Gong, PhD in Neuroscience, Yale University
-  Xiaowei Ou, PhD in Physics, Yale University
-  Ping Luo, Wu Tsai Institute, Yale University
+* Dongyu Gong, PhD in Neuroscience, Yale University
+* Xiaowei Ou, PhD in Physics, Yale University
+* Ping Luo, Wu Tsai Institute, Yale University
 
 Faculty Adviser: [John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
 
