@@ -8,10 +8,6 @@ The Full-stack AI Researcher @ Yale (FAIRY) workshop series is sponsored by the 
 
 Our mission is to help students and researchers develop practical understanding of AI through hands-on learning and collaboration across backgrounds and experience levels.
 
-## Who Can Attend
-
-Students, researchers, and anyone interested in learning AI are welcome. No single level of prior experience is required—curiosity, participation, and a willingness to learn collaboratively are what matter most.
-
 ## Workshops
 ### Current Workshop Series
 #### 2026 Fall - Build AI Agents from Scratch
@@ -21,7 +17,7 @@ Organizers
 * Kashi Tuteja, Undergrad in Mathematics, Yale Univeristy
 * Ping Luo, Wu Tsai Institute, Yale University
 
-Faculty Adviser: [John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
+Faculty Adviser: [Prof. John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
 
 Speakers
 
@@ -32,7 +28,7 @@ Organizers
 * Xiaowei Ou, PhD in Physics, Yale University
 * Ping Luo, Wu Tsai Institute, Yale University
 
-Faculty Adviser: [John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
+Faculty Adviser: [Prof. John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
 
 Speakers: 
 
@@ -48,7 +44,9 @@ Organizers
 *  Alexander Mader, Undergrad in Physics, Yale University
 *  Ping Luo, Wu Tsai Institute, Yale University
 
-Faculty Adviser: [John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
+Faculty Advisers
+* [Prof. John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
+* [Prof. Jas Sekhon](https://economics.yale.edu/people/jasjeet-sekhon)
 
 Course website: https://sashacui.com/full-stack.html
 
