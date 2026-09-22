@@ -8,12 +8,6 @@ The Full-stack AI Researcher @ Yale (FAIRY) workshop series is sponsored by the 
 
 Our mission is to help students and researchers develop practical understanding of AI through hands-on learning and collaboration across backgrounds and experience levels.
 
-Our Motto: 
-<p align="center">
-  <img src="assets/fairy-motto.svg" alt="To Learn, Together" width="500">
-</p>
-
-
 ## Workshops
 ### Current Workshop Series
 #### 2026 Fall - Build AI Agents from Scratch
