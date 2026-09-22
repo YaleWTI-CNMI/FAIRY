@@ -20,6 +20,22 @@ Organizers
 Faculty Adviser: [Prof. John Lafferty](https://statistics.yale.edu/profile/john-lafferty)
 
 Speakers
+09/22/2026 
+* Dongyu Gong: [Setup](https://github.com/agenticloops-ai/agentic-ai-engineering/blob/main/SETUP.md)
+* Kashi Tutja: Foundations
+  
+10/06/2026
+* Xiaowei Ou: Effective Agents Patterns
+  
+10/20/2026
+* Ziqing Shi: Advanced Techniques
+  
+11/03/2026
+* Guangyao Qi: Testing and Evaluation
+  
+11/17/2026
+
+12/01/2026
 
 ### Past Workshop Series
 #### 2026 Spring - Build an LLM from Scratch
