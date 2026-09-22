@@ -2,7 +2,7 @@
 
 ## About
 
-The Full-stack AI Researcher @ Yale (FAIRY) workshop series is sponsored by the [Center for Neurocomputation and Machine Intelligence](https://wti.yale.edu/research/neurocomputation) at the [Wu Tsai Institute](wti.yale.edu). Launched in Fall 2025, the series brings together students and researchers to develop a comprehensive understanding of artificial intelligence through hands-on learning, discussion, and collaborative exploration.
+The Full-stack AI Researcher @ Yale (FAIRY) workshop series is sponsored by the [Center for Neurocomputation and Machine Intelligence](https://wti.yale.edu/research/neurocomputation) of the [Wu Tsai Institute](wti.yale.edu). Launched in Fall 2025, the series brings together students and researchers to develop a comprehensive understanding of artificial intelligence through hands-on learning, discussion, and collaborative exploration.
 
 ## Mission
 
