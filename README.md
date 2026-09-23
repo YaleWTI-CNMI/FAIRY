@@ -23,7 +23,7 @@ Schedule
 
 09/22/2026 
 * Dongyu Gong: [Setup](https://github.com/agenticloops-ai/agentic-ai-engineering/blob/main/SETUP.md)
-* Kashi Tutja: Foundations
+* Kashi Tutja: [Foundations](2026-fall/9_22_foundations.pdf)
   
 10/06/2026
 * Xiaowei Ou: Effective Agents Patterns
