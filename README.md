@@ -26,7 +26,7 @@ Schedule
 * Kashi Tutja: [Foundations](2026-fall/9_22_foundations.pdf)
   
 10/06/2026
-* Xiaowei Ou: Effective Agents Patterns
+* Xiaowei Ou: [Effective Agents Patterns](2026-fall/10_06_effective_agents_patterns.pdf)
   
 10/20/2026
 * Ziqing Shi: Advanced Techniques
