@@ -27,7 +27,7 @@ Schedule
 * Xiaowei Ou: [Effective Agents Patterns](2026-fall/10_06_effective_agents%20patterns.pdf)
   
 10/20/2026
-* Ziqing Shi: [Advanced Techniques](2026-fall/10_20_advanced_technoques.pdf)
+* Ziqing Shi: [Advanced Techniques](2026-fall/10_20_advanced_technoques.pdf)[notebook](2026-fall/Chapter3_Advanced_Techniques_2026.ipynb)
   
 11/03/2026
 * Guangyao Qi: Testing and Evaluation
