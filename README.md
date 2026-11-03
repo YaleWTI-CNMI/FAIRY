@@ -30,7 +30,7 @@ Schedule
 * Ziqing Shi: [Advanced Techniques](2026-fall/10_20_advanced_technoques.pdf)  [notebook](2026-fall/Chapter3_Advanced_Techniques_2026.ipynb)
   
 11/03/2026
-* Guangyao Qi: [Testing and Evaluation](2026-fall/11_02_testing_and_evaluation.pdf)
+* Guangyao Qi: [Testing and Evaluation](2026-fall/11_03_testing_and_evaluation.pdf)
   
 11/17/2026
 
