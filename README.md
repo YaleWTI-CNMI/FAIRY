@@ -33,6 +33,7 @@ Schedule
 * Guangyao Qi: [Testing and Evaluation](2026-fall/11_03_testing_and_evaluation.pdf)
   
 11/17/2026
+* Dongyu Gong: [Loop Engineering](2026-fall/11_17_loop-engineering.pdf)
 
 12/01/2026
 
